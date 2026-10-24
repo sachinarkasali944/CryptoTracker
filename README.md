@@ -113,7 +113,7 @@ GET https://api.coingecko.com/api/v3/coins/markets
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/CryptoTracker.git
+   git clone https://github.com/sachinarkasali944/CryptoTracker.git
    cd CryptoTracker
    ```
 
